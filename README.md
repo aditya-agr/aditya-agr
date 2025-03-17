@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Agrawal</h1>
-<h3 align="center">A passionate Frontend Developer and Android Developer from India</h3>
+<h3 align="center">A passionate Web Developer and Data Science Enthusiast from India</h3>
 
 <p align="center"><img  src="https://github.com/aditya-agr/aditya-agr/blob/main/gif.gif" alt="aditya-agr" /></p>
 
@@ -7,15 +7,15 @@
 
 - 🌱 I’m currently learning **Competitive Programming & Development**
 
-- 👯 I’m looking to collaborate on **GSOC 2023 Projects**
+- 👯 I’m looking to collaborate on **GSOC 2025 Projects**
 
-- 🤝 I’m looking for help with **Web Development Projects**
+- 🤝 I’m looking for help with **Creative and Accountable Projects**
 
-- 💬 Ask me about **C, C++ & DSA**
+- 💬 Ask me about **C, C++ & DSA, Python, Data Science, Machine Learning, Databases, Cloud Technology, Web Development**
 
 - 📫 How to reach me **agr2003aditya@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/10c02ok8pbcpo6hAIE88FIegpFsKh14tu/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1xYjrrutq52hm9PKS3MEPYbc0yizfN7ud/view?usp=sharing)
 
 <br>
 <h3 align="left"><b><i>Connect with me:</b></i></h3>
